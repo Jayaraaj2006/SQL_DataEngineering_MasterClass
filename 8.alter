@@ -3,6 +3,7 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 ====================================================================================
 
+Explanation : ALTER is used to modify the existing database objects as it is DDL(Data Definition Language).examples are below :
 
 drop table if exists Employees;
 CREATE TABLE Employees (
