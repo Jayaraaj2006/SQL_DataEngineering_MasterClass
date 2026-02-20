@@ -2,7 +2,7 @@ My complete SQL Masterclass Notes in Tanglish is now live! Covers 30+ topics wit
 Perfect for both beginners and professionals to master SQL easily. Check it out here 👉 https://topmate.io/dataengineering/1697791
 
 ====================================================================================
-
+Explanation : ALTER is used to modify the exixting database objects as it is DDL(Data Definition Language).examples are below :
 
 drop table if exists Employees;
 CREATE TABLE Employees (
