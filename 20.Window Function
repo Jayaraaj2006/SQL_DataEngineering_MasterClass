@@ -3,6 +3,18 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 ====================================================================================
 
+Definition:
+window function in sql performs a calculation across a set of rows related to the current row,
+without changing the number of rows in the result set.
+the term "window" refers to a set of rows that are somehow related to the current row.
+
+
+                              
+Types of Window Functions:
+1.Aggergate : AVG() ,MAX() ,MIN() ,SUM() ,COUNT()
+2.Ranking : ROW_NUMBER() ,RANK() ,DENSE_RANK() ,PERCENT_RANK() ,NTILE()
+3.Value :LAG() ,LEAD() ,FIRST() ,LAST() ,NTILE()
+                        
 
 
 Window Function 
