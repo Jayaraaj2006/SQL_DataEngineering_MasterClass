@@ -3,7 +3,10 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 ====================================================================================
 
-Definition : 
+Definition : Index is using mainly for Performance Optimization.for example: lets take a book,if i want to read a topic thats somewhere in the book i need to 
+take a glance in a entire book but if i have a index page i can simply lookup in the index page and read that topic without searching the entire book.
+
+Drawback : Creating index also holds memory.
 
 DROP TABLE IF EXISTS customers;
 
