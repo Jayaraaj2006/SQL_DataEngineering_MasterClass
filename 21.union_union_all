@@ -8,6 +8,12 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 Union and Unionall
 
+Definition : Union and Unionall are used to merge two or more tables those tables must be same in no.of columns and datatypes must be compatatible for every tables.
+Unionall - simply merges the tables.
+Union - merges the tables and removes the duplicate if matches.
+Performance : Unionall is better because it doesn't remove anything.
+
+
 %%sql
 
 DROP TABLE IF EXISTS employees;
