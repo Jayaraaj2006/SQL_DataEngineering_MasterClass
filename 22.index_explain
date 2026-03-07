@@ -3,7 +3,7 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 ====================================================================================
 
-
+Definition : 
 
 DROP TABLE IF EXISTS customers;
 
