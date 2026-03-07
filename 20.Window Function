@@ -133,6 +133,9 @@ FROM EmployeeSales;
 PERCENT_RANK
 ----------------
 
+Internal Working :
+    PERCENT_RANK = rank of the row -1 / total no of rows -1 
+
 CREATE TABLE ProductSales (
     ProductID INT,
     ProductName VARCHAR(100),
