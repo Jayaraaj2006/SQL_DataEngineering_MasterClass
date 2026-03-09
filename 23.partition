@@ -5,7 +5,7 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 Definition : partition is used for performance optimization.for_ex : lets take drive partitions C nas E,If i want to search a particular movie in E drive so there is
 no need in search in C drive so time saves.For this purpose we are using partitions in DB.
-
+Types of partitions in mysql : Range ,List ,HASH partitions.
 
 DROP TABLE IF EXISTS orders;
 
