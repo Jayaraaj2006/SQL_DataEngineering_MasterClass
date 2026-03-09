@@ -7,6 +7,9 @@ Definition : partition is used for performance optimization.for_ex : lets take d
 no need in search in C drive so time saves.For this purpose we are using partitions in DB.
 Types of partitions in mysql : Range ,List ,HASH partitions.
 
+Comparition between index and partition : Index is just a logical approach whereas Partition is a physical approach it's actually creating partition in disks.
+Also index create some extra memory which is a backlog.Hence Partition is better than Index.
+
 DROP TABLE IF EXISTS orders;
 
 Range
