@@ -3,6 +3,10 @@ Perfect for both beginners and professionals to master SQL easily. Check it out 
 
 ====================================================================================
 
+Its used for saferside while working in a important database(updation & rollback to before updation).
+To use commit & rollback we need to start transaction; first if not the updation will be automatically commited and we cant rollback again.
+
+
 CREATE TABLE Accounts (
   AccountID INT PRIMARY KEY,
   AccountHolder VARCHAR(100),
